@@ -1,6 +1,4 @@
-# aplicacion2
-
-Actividad 2. Formulario con preferencias compartidas
+# Repositorio para guardar la actividad 2 "Formulario con preferencias compartidas"
 
 ## Getting Started
 
